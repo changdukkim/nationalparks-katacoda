@@ -77,4 +77,4 @@ api.add_resource(DataAll, '/ws/data/all')
 
 @application.route('/')
 def index():
-    return 'Welcome to the NH Bank.'
+    return 'Welcome to the KB Bank.'
